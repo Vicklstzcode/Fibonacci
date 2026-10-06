@@ -1,0 +1,6 @@
+streamlit
+wordcloud
+matplotlib
+spacy
+pycryptodome
+cryptography
